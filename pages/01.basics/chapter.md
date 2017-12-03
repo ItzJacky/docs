@@ -9,4 +9,4 @@ child_type: docs
 
 # Basics
 
-Discover the **basic** principles
+Discover the **bass** principles
