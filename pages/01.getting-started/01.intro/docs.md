@@ -2,9 +2,6 @@
 title: Introduction
 ---
 
-! This page is still working in progress, please do not take anything here too serious until 
-! this page was published as non beta content
-
 Welcome to the CoreCrafted Network, a place that is full of insanity and weird stuff.
 
 In this handbook, we will talk through *(nearly)* everything you would have to know, and probably wanted to know, like rules, tips , server features, and even complete guide for a single server.
