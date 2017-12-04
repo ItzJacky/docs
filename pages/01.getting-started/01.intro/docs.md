@@ -1,5 +1,7 @@
 ---
 title: Introduction
+taxonomy:
+    category: docs
 ---
 
 Welcome to the CoreCrafted Network, a place that is full of insanity and weird stuff.
