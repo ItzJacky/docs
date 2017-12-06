@@ -12,4 +12,5 @@ The goal of this handbook is equip you with the idea of different servers, and t
 
 ## Who are we?
 
-We are a combination of 2 distinct server, namely **REDCRAFT** and **i-survive Network**, owned by ThisTNTSquid and jasonc123456 respectively before the merge.
+We are a combination of 2 distinct server, namely **REDCRAFT** and **i-survive Network**, owned by ThisTNTSquid and jasonc123456 respectively before the merge. Both of us first started coorperation in the manner of collaboration , and a few months later, due to an incident concerning both of our domain name, we merged and became the **CoreCrated Network** you knew and love today.
+
