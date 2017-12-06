@@ -4,8 +4,7 @@ The official documentation for the CoreCrafted Network, created as a starting po
 ## Contributing
 The documentation site in production is an implementation of the latest commit in the `master` branch (namely production branch). Therefore, the content is exptected to be accurate, complete and flawless. However, there are always a possibility that something went wrong with the keyboard, computer, or ~~even brain of the contributor~~(I mean.. wordings), or there is something important missing in the documentation site. In case you discover any problems, you could consider **contributing** to the the page
 
-Our docs utilizes [Grav](https://getgrav.org/), an open source flat-file CMS to deliver you with the nice layout of handbook. If you
-are contributing, please be sure to check out the [Grav Official Documentation](https://learn.getgrav.org/) to learn more about Grav itself.
+> Our docs utilizes [Grav](https://getgrav.org/), an open source flat-file CMS to deliver you with the nice layout of handbook. If you desire to contribute, please be sure to check out the [Grav Official Documentation](https://learn.getgrav.org/) to learn more about Grav itself.
 
 ### Dos and Don'ts while contributing
 #### Dos
