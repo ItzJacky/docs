@@ -10,4 +10,4 @@ child_type: docs
 
 # Getting Started
 
-Things you need to know before starting anything
+Things you need to know before getting started to play!
